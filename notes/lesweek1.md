@@ -152,7 +152,7 @@ Win32_Processor --> geen singleton
 Geef mij alle instanties -> is er 1 en je vraagt info en je krijgt daar ook PATH en je kijkt naar naamgeving dan ziet het er zo uit ``.DeviceID="CPU0"`` Dus een punt en dan sleutelattribuut en de waarde!
 
 
-!!! Mevr. D vraagt zowel singleton als gewoon object in als addertje onder het gras!!!
+!!! Op test: vraagt zowel singleton als gewoon object in als addertje onder het gras!!!
 
 
 ### Attribuutqualifiers
